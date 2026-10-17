@@ -1,0 +1,6 @@
+{
+  "name": "صومعة حسان بالرباط - Hassan Tower 3D",
+  "description": "تجربة تفاعلية ثلاثية الأبعاد ودليل تاريخي ومعماري مفصل لصومعة حسان التاريخية بالرباط، مبرزاً العمارة الموحدية وأبعادها وغابة الأعمدة وضريح محمد الخامس.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
